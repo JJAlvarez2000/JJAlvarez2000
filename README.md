@@ -4,7 +4,7 @@ Hi 👋 My name is Julio Joel Alvarez
 Software Developer | Systems Engineering Student
 --------------------
 
-Passionate about technology in general, software development and with great interest in business. I'm currently a software developer and Systems engineering student looking for his first opportunity in the IT world, my goal is to provide the best solution to the end user and grow not only professionally but also personally. 💪 My strengths include my insistence, curiosity and perseverance. I characterize myself as an analytical person capable of thinking of other solutions and alternatives, I enjoy teamwork, great challenges and above all I am a person with great optimism.
+Passionate about technology in general, software development and with great interest in business. I'm currently a systems engineering student looking for his first opportunity in the IT world, my goal is to provide the best solution to the end user and grow not only professionally but also personally. 💪 My strengths include my insistence, curiosity and perseverance. I characterize myself as an analytical person capable of thinking of other solutions and alternatives, I enjoy teamwork, great challenges and above all I am a person with great optimism.
 
 * 🌍  I'm based in CABA, Argentina
 * ✉️  You can contact me at [alvarezjuliojoel@gmail.com](mailto:alvarezjuliojoel@gmail.com)

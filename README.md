@@ -1,7 +1,7 @@
 Hi 👋 My name is Julio Joel Alvarez
 ===================================
 
-Full Stack Developer
+CS Student | Software Developer
 --------------------
 
 Passionate about technology in general, software development and with great interest in business. I'm currently a full stack developer and systems engineering student looking for his first opportunity in the IT world, my goal is to provide the best solution to the end user and grow not only professionally but also personally. 💪 My strengths include my insistence, curiosity and perseverance. I characterize myself as an analytical person capable of thinking of other solutions and alternatives, I enjoy teamwork, great challenges and above all I am a person with great optimism.

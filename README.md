@@ -8,7 +8,7 @@ Passionate about technology in general, software development and with great inte
 
 * 🌍  I'm based in CABA, Argentina
 * ✉️  You can contact me at [alvarezjuliojoel@gmail.com](mailto:alvarezjuliojoel@gmail.com)
-* 🧠  I'm learning Advanced Java with Spring and Hibernate
+* 🧠  I'm learning advanced Java with Spring and Hibernate
 
 ### Skills
 

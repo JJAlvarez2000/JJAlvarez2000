@@ -1,10 +1,12 @@
-Hi 👋 My name is Julio Joel Alvarez
+Hi 👋 My name is Julio Alvarez
 ===================================
 
-Software Developer | Systems Engineering Student
+Full Stack Developer | Systems Engineering Student
 --------------------
 
-Passionate about technology in general, software development and with great interest in business. I'm currently a systems engineering student looking for his first opportunity in the IT world, my goal is to provide the best solution to the end user and grow not only professionally but also personally. 💪 My strengths include my insistence, curiosity and perseverance. I characterize myself as an analytical person capable of thinking of other solutions and alternatives, I enjoy teamwork, great challenges and above all I am a person with great optimism.
+Hi! 👋🏼 My name is Julio. 21 y.o. From Jujuy, Argentina. Passionate about challenges, problem solving and constant learning. I'm currently a junior full stack developer and systems engineering student looking for his first opportunity as a developer. My goal is to grow professionally in the industry and create scalable and modular high value software that's reliable for the end user. I constantly dream for a better world and I always seek to leave my mark on what I do. If you are looking for an enthusiastic person with commitment, desire to grow and a high performance, don't hesitate to contact me.
+
+Nice to meet you!
 
 * 🌍  I'm based in CABA, Argentina
 * ✉️  You can contact me at [alvarezjuliojoel@gmail.com](mailto:alvarezjuliojoel@gmail.com)

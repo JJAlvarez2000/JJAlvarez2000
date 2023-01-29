@@ -10,7 +10,7 @@ Nice to meet you!
 
 * 🌍  I'm based in CABA, Argentina.
 * ✉️  You can contact me at [alvarezjuliojoel@gmail.com](mailto:alvarezjuliojoel@gmail.com)
-* 🧠  I'm currently enhancing my skills with Java.
+* 🧠  I'm currently enhancing my skills with Java and learning Angular.
 
 ### Skills
 

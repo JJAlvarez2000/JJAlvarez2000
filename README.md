@@ -1,16 +1,17 @@
 Hi 👋 My name is Julio Alvarez
 ===================================
 
-Full Stack Java Developer | Systems Engineering Student
+Software Developer | Systems Engineering Student
 --------------------
 
-22 y.o. From Jujuy, Argentina. Passionate about challenges, problem solving and constant learning. I'm currently a junior developer and systems engineering student looking for his first IT opportunity. My goal is to grow professionally in the industry and create scalable and modular high value software that's reliable for the end user. I constantly dream for a better world and I always seek to leave my mark on what I do. If you are looking for an enthusiastic person with commitment, desire to grow and a high performance, don't hesitate to contact me.
+22 y.o. Passionate about challenges, problem solving and constant learning. I'm currently a developer and systems engineering student looking for his first IT opportunity. My goal is to grow professionally in the industry and create scalable and modular high value software that's reliable for the end user. I constantly dream for a better world and I always seek to leave my mark on what I do. If you are looking for an enthusiastic person with commitment, desire to grow and a high performance, don't hesitate to contact me.
 
 Nice to meet you!
 
-* 🌍  I'm based in CABA, Argentina.
+
+* 🌍  I'm based in CABA, Argentina.
 * ✉️  You can contact me at [alvarezjuliojoel@gmail.com](mailto:alvarezjuliojoel@gmail.com)
-* 🧠  I'm currently enhancing my skills with Java and learning Angular.
+* ☕  Backend development with Java.
 
 ### Skills
 

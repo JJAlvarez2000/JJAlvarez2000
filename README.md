@@ -1,4 +1,4 @@
-Hi 👋 My name is Julio Alvarez
+Hi 👋 My name is Julio Joel Alvarez
 ===================================
 
 Software Developer | Systems Engineering Student
